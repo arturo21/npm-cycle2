@@ -20,14 +20,14 @@ In your web page:
 That's it! You don't need to write any script to initialize the slideshow, Cycle2 will auto-initialize if you use the class cycle-slideshow.
 Documentation, Demos, Downloads and FAQ
 
-Everything you need to know can be found here: http://jquery.malsup.com/cycle2/
+Everything you need to know can be found here: https://github.com/arturo21/npm-cycle2
 Bower
 
-To install Cycle2 via Bower:
+To install Cycle2 via NPM:
 
-bower install jquery-cycle2
+npm i cycle2
 
-The only file you will need (unless you're customizing) is build/jquery.cycle2.min.js
+The only file you will need (unless you're customizing) is build/cycle2.js
 
 (Other files are available for advanced customization and you can read more about them on the download and advanced download pages.)
 Build
