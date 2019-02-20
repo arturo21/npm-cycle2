@@ -8,14 +8,15 @@ In your web page:
 <!-- include NPM Cycle2 (jQuery + Cycle2) -->
 <script src="http://path/to/your/copy/of/cycle2.js"></script>
 
-...
 
+```html
 <!-- declare a slideshow -->
 <div class="cycle-slideshow">
     <img src="http://malsup.github.com/images/p1.jpg">
     <img src="http://malsup.github.com/images/p2.jpg">
     <img src="http://malsup.github.com/images/p3.jpg">
 </div>
+```
 
 That's it! You don't need to write any script to initialize the slideshow, Cycle2 will auto-initialize if you use the class cycle-slideshow.
 Documentation, Demos, Downloads and FAQ
