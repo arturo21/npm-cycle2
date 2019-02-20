@@ -21,7 +21,8 @@ That's it! You don't need to write any script to initialize the slideshow, Cycle
 Documentation, Demos, Downloads and FAQ
 
 Everything you need to know can be found here: https://github.com/arturo21/npm-cycle2
-Bower
+
+## NPM
 
 To install Cycle2 via NPM:
 
