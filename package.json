@@ -1,0 +1,22 @@
+{
+  "name": "cycle2",
+  "version": "1.0.0",
+  "description": "Cycle 2nd gen",
+  "main": "main.js",
+  "dependencies": {
+    "glider-js": "^1.6.4",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cycle",
+    "cycle2",
+    "jquery",
+    "compiled"
+  ],
+  "author": "Arturo Vásquez",
+  "license": "ISC"
+}
